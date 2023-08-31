@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2010",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Geology"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Solid Mechanics"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ]
+  ],
+  "legacy_uid": "80e9b1a0-45fa-823c-e951-bdf66c964472",
+  "instructors": {
+    "content": [
+      "76835d68-259b-ff51-3c23-6cb7db2919d5",
+      "97a24728-6afe-34ef-b864-092828560854"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a967ebae-4bfb-4e35-aaba-c8bca1aa537a",
+    "website": "12-510-introduction-to-seismology-spring-2010"
+  },
+  "course_title": "Introduction to Seismology",
+  "course_description": "This graduate level course presents a basic study in seismology and the utilization of seismic waves for the study of Earth's interior. It introduces techniques necessary for understanding of elastic wave propagation in layered media.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.510",
+  "course_image_thumbnail": {
+    "content": "51518836-ff36-eb39-c800-01a29492f40c",
+    "website": "12-510-introduction-to-seismology-spring-2010"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Programming Assignments"
+  ],
+  "site_uid": "88ff2ab7-e2c4-4bb7-b515-a6132b48af27",
+  "site_short_id": "12.510-spring-2010",
+  "title": "Course Metadata"
+}
